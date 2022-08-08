@@ -33,6 +33,6 @@ This tutorial will cover the following:
 
 ## Prerequisites
 
-```{include="../common/markdown/USER_PREREQS.md"}
-this will be replaced by contents
-```
+{"gitdown": "include", "file": "./TEST.md"}
+
+Something after.
